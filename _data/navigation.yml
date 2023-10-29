@@ -51,20 +51,6 @@ es-ES:
 es-CO:
   <<: *DEFAULT_ES
 
-  
-  # french
-# ------
-  fr: &DEFAULT_FR
-  nav:
-    - title: "Portfolio"
-      section: portfolio
-    - title: "À propos"
-      section: about
-    - title: "Contact"
-      section: contact
-fr-CA:
-  <<: *DEFAULT_FR
-
 
 
   

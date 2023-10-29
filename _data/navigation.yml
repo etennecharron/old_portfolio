@@ -59,8 +59,8 @@ fr: &DEFAULT_FR
       section: services
     - title: "Portfolio"
       section: portfolio
-    - title: "About"
-      section: about
+    - title: "À propos"
+      section: aPropos
     - title: "Contact"
       section: contact 
 fr-FR:

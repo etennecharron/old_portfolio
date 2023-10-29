@@ -51,6 +51,9 @@ es-ES:
 es-CO:
   <<: *DEFAULT_ES
 
+  
+  # french
+# ------
   fr: &DEFAULT_FR
   nav:
     - title: "Portfolio"
@@ -60,7 +63,7 @@ es-CO:
     - title: "Contact"
       section: contact
 fr-CA:
-  <<: *DEFAULT_CA
+  <<: *DEFAULT_FR
 
 
 

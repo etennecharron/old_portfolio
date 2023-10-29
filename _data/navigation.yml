@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: services
     - title: "Portfolio"
       section: portfolio
-    - title: "À propos"
+    - title: "About"
       section: about
     - title: "Contact"
       section: contact
@@ -50,3 +50,18 @@ es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
+
+  fr: &DEFAULT_FR
+  nav:
+    - title: "Portfolio"
+      section: portfolio
+    - title: "À propos"
+      section: about
+    - title: "Contact"
+      section: contact
+fr-CA:
+  <<: *DEFAULT_CA
+
+
+
+  

@@ -1,6 +1,3 @@
----
-layout: page
----
 {% include navheader.html %}
 {% include portfolio_grid.html %}
 {% include about.html %}

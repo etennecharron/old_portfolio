@@ -1,5 +1,6 @@
 ---
 layout: page
+background: grey
 ---
 
 {% include portfolio_grid.html %}

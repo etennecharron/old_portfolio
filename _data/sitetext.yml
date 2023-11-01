@@ -219,6 +219,7 @@ es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
+  
 # French
 # ------
 fr: &DEFAULT_FR

@@ -11,20 +11,19 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Portfolio
-    text:  Étienne Charron
-    button: voir les projets
+    title: "Portfolio"
+    text:  "Étienne Charron"
+    button: "voir les projets"
     buttonlink: "#portfolio"
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    text: "Voici mes projets."
+    section: "portfolio"
     closebutton: "Close Project"
 
   about:
-    title: "About Us"
-    text: "our story"
+    title: À propos"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
     

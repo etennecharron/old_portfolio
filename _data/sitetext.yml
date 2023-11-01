@@ -268,7 +268,6 @@ fr: &DEFAULT_FR
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
-
 fr-FR:
   <<: *DEFAULT_FR
 fr-BE:

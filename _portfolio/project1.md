@@ -1,15 +1,14 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Cueillette de pommes
+subtitle: jeu web
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
-
+alt: image du jeu cueillete de pommes
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Cueillette de pommes
+  subtitle: Jeu web
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Cueillette de pommes est un jeu web où le but est de récolter le plus de pommes qui tombes des arbres possibles et d'éviter d'en raté 3 sinon la partie est terminé. J'ai tout réaliser dams le projet.
 
 {:.list-inline}
 - Date: January 2017

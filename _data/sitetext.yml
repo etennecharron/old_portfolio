@@ -219,7 +219,7 @@ es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
-  # French
+# French
 # ------
 fr: &DEFAULT_FR
  header:

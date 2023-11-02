@@ -1,18 +1,22 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Combat automatique
+subtitle: jeu web
 image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
-
+alt: image du jeu Combat automatique
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Combat automatique
+  subtitle: Jeu web
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Combat automatique est un projet personnel web où le but est de faire combatre des personnages aléatoir l'un comme l'autre.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+
+- #### [lien vers le jeu](https://etennecharron.github.io/jeu_cueillette_pommes/)
+- #### [lien vers github](https://etennecharron.github.io/combat_automatique/)
+
+### Logiciels utilisés
+
+{:.list-inline}
+- Visual Studio Code
 

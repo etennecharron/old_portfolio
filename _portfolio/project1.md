@@ -12,8 +12,8 @@ Cueillette de pommes est un jeu web où le but est de récolter le plus de pomme
 
 {:.list-inline}
 
-- [lien vers le jeu](https://etennecharron.github.io/jeu_cueillette_pommes/)
-- [lien vers github](https://github.com/etennecharron/jeu_cueillette_pommes)
+- ## [lien vers le jeu](https://etennecharron.github.io/jeu_cueillette_pommes/)
+- ## [lien vers github](https://github.com/etennecharron/jeu_cueillette_pommes)
 
 ### Logiciels utilisés
 

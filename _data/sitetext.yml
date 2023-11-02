@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     name-validation: "Entrez votre nom"
     email: "Email*"
     email-validation: "Entrez votre adresse courriel"
-    phone: "Phone Number"
+    phone: "Numéro de téléphone"
     phone-validation: "Entrez votre numéro de téléphone"
     message: "Message"
     message-validation: "Entrez un message"

@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "Portfolio"
     text: "Voici mes projets."
     section: "portfolio"
-    closebutton: "Close Project"
+    closebutton: "Fermer"
 
   about:
     title: "À propos"

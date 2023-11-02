@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "Portfolio"
       section: portfolio
-    - title: "About"
-      section: À propos
+    - title: "À propos"
+      section: about
     - title: "Contact"
       section: contact
 en-US:

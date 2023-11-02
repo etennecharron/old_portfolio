@@ -8,7 +8,7 @@ caption:
   subtitle: Jeu web
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Cueillette de pommes est un jeu web où le but est de récolter le plus de pommes qui tombes des arbres possibles et d'éviter d'en raté 3 sinon la partie est terminé. J'ai tout réaliser dams le projet.
+Cueillette de pommes est un jeu web où le but est de récolter le plus de pommes qui tombes des arbres possibles et d'éviter d'en raté 3 sinon la partie est terminé. J'ai tout réaliser dans le projet.
 
 {:.list-inline}
 

@@ -1,18 +1,24 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Biota
+subtitle: Court métrage
 image: assets/img/portfolio/03-full.jpg
-alt: 
-
+alt: image du projet Biota
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Biota
+  subtitle: Court métrage
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+BITOA est un projet réaliser dans le cadre d'un cours d'animation 3D et de conception sonor. L'histoire d'une créature a forme humanoïde triste et seul. Sa tristesse fait naître la vie et redonne de la couleur à son monde. J'ai réaliser le montage vidéo, les sons, la modélisation du personnage et son animation.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+
+- #### [lien vers le court métrage](https://www.youtube.com/watch?v=TYIZgZ5-SGg&t=2s)
+
+### Logiciels utilisés
+
+{:.list-inline}
+- Maya
+- Reaper
+- VCV Rack
+- Davinci Resolve
 

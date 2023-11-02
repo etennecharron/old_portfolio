@@ -18,7 +18,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Portfolio
-email      : yeticharron@gmail.com #this is also the email contact forms will go to
+email      : f/xknlejrg
 description: "Ceci est le portfolio de Étienne Charron"
 author     : Étienne Charron
 # logo:     #optional, defaults to site title

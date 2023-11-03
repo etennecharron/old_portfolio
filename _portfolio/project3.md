@@ -23,4 +23,4 @@ BITOA est un projet réaliser dans le cadre d'un cours d'animation 3D et de conc
 - Davinci Resolve
 
 
-<img src="assets/img/portfolio/03_partie_01.jpg" alt="image test">
+<img src="../assets/img/portfolio/03_partie_01.jpg" alt="image test">

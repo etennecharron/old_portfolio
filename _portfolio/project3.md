@@ -22,4 +22,3 @@ BITOA est un projet réaliser dans le cadre d'un cours d'animation 3D et de conc
 - Reaper
 - VCV Rack
 - Davinci Resolve
-

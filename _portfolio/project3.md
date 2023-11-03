@@ -24,3 +24,7 @@ BITOA est un projet réaliser dans le cadre d'un cours d'animation 3D et de conc
 
 
 <img src="../assets/img/portfolio/03_partie_01.jpg" alt="image test" style="width:100%;">
+
+<img src="../assets/img/portfolio/03_partie_02.jpg" alt="image test" style="width:100%;">
+
+<img src="../assets/img/portfolio/03_partie_03.jpg" alt="image test" style="width:100%;">

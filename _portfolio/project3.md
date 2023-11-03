@@ -3,7 +3,6 @@ title: Biota
 subtitle: Court métrage
 image: assets/img/portfolio/03-full.jpg
 alt: image du projet Biota
----
 caption:
   title: Biota
   subtitle: Court métrage

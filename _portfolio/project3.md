@@ -22,9 +22,5 @@ BITOA est un projet réaliser dans le cadre d'un cours d'animation 3D et de conc
 - VCV Rack
 - Davinci Resolve
 
----
-title: Biota
-subtitle: Court métrage
-image: assets/img/portfolio/03_partie_01.jpg
-alt: image du projet Biota
----
+
+<img src="assets/img/portfolio/03_partie_01.jpg" alt="image test">

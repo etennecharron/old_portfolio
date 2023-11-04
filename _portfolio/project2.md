@@ -12,8 +12,8 @@ Combat automatique est un projet personnel web où le but est de faire combatre 
 
 {:.list-inline}
 
-- #### [lien vers le jeu](https://etennecharron.github.io/jeu_cueillette_pommes/)
-- #### [lien vers github](https://etennecharron.github.io/combat_automatique/)
+- #### [lien vers le jeu](https://etennecharron.github.io/combat_automatique/)
+- #### [lien vers github](https://github.com/etennecharron/combat_automatique)
 
 ### Logiciels utilisés
 

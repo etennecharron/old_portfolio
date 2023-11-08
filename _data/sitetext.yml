@@ -29,7 +29,7 @@ en: &DEFAULT_EN
     
   contact:
     title: "Contact"
-    text: "Ou 438-506-7431"
+    text: "yeticharron@gmail.com ou 438-506-7431"
     section: "contact"
     name: "Nom"
     name-validation: "Entrez votre nom"

@@ -8,7 +8,7 @@ caption:
   subtitle: Jeu web
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Combat automatique est un projet personnel web où le but est de faire combatre des personnages aléatoir l'un comme l'autre.
+Combat automatique est un projet personnel web où le but est de faire combatre des personnages aléatoir l'un contre l'autre. j'ai créer les images des personnages sur figma.
 
 {:.list-inline}
 

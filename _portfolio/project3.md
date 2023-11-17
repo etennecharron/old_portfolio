@@ -8,7 +8,7 @@ caption:
   subtitle: Court métrage
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-BITOA est un projet réaliser dans le cadre d'un cours d'animation 3D et de conception sonor. L'histoire d'une créature a forme humanoïde triste et seul. Sa tristesse fait naître la vie et redonne de la couleur à son monde. J'ai réaliser le montage vidéo, les sons, la modélisation du personnage et son animation.
+BITOA est un projet réalisé dans le cadre d'un cours d'animation 3D et de conception sonore. L'histoire d'une créature a une forme humanoïde triste et seule. Sa tristesse fait naître la vie et redonne de la couleur à son monde. J'ai réalisé le montage vidéo sur Davinci Resolve, créé les sons sur VCV Rack et réalisé la création 3D du personnage et son animation sur MAYA.
 
 {:.list-inline}
 
@@ -18,7 +18,6 @@ BITOA est un projet réaliser dans le cadre d'un cours d'animation 3D et de conc
 
 {:.list-inline}
 - Maya
-- Reaper
 - VCV Rack
 - Davinci Resolve
 

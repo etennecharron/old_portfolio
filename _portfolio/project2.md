@@ -8,7 +8,7 @@ caption:
   subtitle: Jeu web
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Combat automatique est un projet personnel web où le but est de faire combattre des personnages aléatoires l'un contre l'autre. J'ai créé les images des personnages et l'éclair sur figma. Le css, html et JavaScript ont tout été réaliser sur Visual Studio Code.
+Combat automatique est un projet personnel web où le but est de faire combattre des personnages aléatoires l'un contre l'autre. J'ai créé les images des personnages et l'éclair sur figma. Le HTML, CSS et JavaScript ont tout été réaliser sur Visual Studio Code.
 
 {:.list-inline}
 

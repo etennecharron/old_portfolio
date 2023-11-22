@@ -1,5 +1,5 @@
 ---
-title: Combat automatique
+title: Combat
 subtitle: jeu web
 image: assets/img/portfolio/02-full.jpg
 alt: image du jeu Combat automatique

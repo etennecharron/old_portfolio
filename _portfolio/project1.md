@@ -1,5 +1,5 @@
 ---
-title: Cueillette de pommes
+title: Pommes
 subtitle: jeu web
 image: assets/img/portfolio/01-full.jpg
 alt: image du jeu cueillete de pommes

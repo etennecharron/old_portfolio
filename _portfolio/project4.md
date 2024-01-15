@@ -1,14 +1,15 @@
 ---
-title: Pommes
-subtitle: jeu web
-image: assets/img/portfolio/01-full.jpg
-alt: image du jeu cueillete de pommes
+title: La grotte
+subtitle: Jeu d'évasion
+image: assets/img/portfolio/04-full.jpg
+alt: image du jeu d'évasion
 caption:
-  title: Cueillette de pommes
-  subtitle: Jeu web
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: La grotte
+  subtitle: Jeu d'évasion
+  thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Cueillette de pommes est un jeu web où le but est de récolter le plus de pommes qui tombes des arbres possibles et d'éviter d'en raté 3 sinon la partie est terminé. J'ai créé le fond d'écran du jeu, le panier, les pommes et la pancarte sur un site web qui s'appelle pixelart. Le HTML, CSS et Javascript ont tout été réalisé sur Visual Studio Code.
+La grotte est un jeu d'évasion où le but est de s'échapper de la grotte où l'on est enfermé grace à la réussite d'énigmes. Les énigmes étaient réalisables grâce à une boîte orange imprimée en 3D qui contenait des composantes comme un détecteur de lumière, 3 boutons, un potentiomètre et un détecteur de temps de vol. Dans le projet, j'ai réaliser avec l'aide de mes collegues le design du jeu et le fonctionnement des énigmes. De plus, j'ai réaliser la programation complète du jeu sur unity et Arduino ide.
+
 
 {:.list-inline}
 

@@ -13,5 +13,9 @@ La grotte est un jeu d'évasion où le but est de s'échapper de la grotte où l
 ### Logiciels utilisés
 
 {:.list-inline}
-- Visual Studio Code
-- Pixelart
+- Unity
+- Arduino ide
+- Max
+- VCV Rack
+- Adobe Illustrator
+- Maya

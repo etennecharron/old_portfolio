@@ -24,7 +24,7 @@ en: &DEFAULT_EN
 
   about:
     title: "À propos"
-    body: "J'aime la programation et le design web, je suis alaise avec HTML, Javascript, Css et le Scss. Je suis aussi a l'aise avec d'autre logiciel de création comme Visual Studio Code, Unity, Maya, VCV Rack, Figma, Adobe Photoshop, Adobe Illustrator et Davinci Resolve."
+    body: "Je suis alaise avec HTML, Javascript, Css, Scss et Wordpress. Je suis aussi a l'aise avec Visual Studio Code, Unity, Maya, VCV Rack, Figma, Adobe Photoshop, Adobe Illustrator et Davinci Resolve."
     section: "about"
     
   contact:

@@ -24,7 +24,7 @@ en: &DEFAULT_EN
 
   about:
     title: "À propos"
-    body: "Je suis alaise avec HTML, Javascript, Css, Scss et Wordpress. Je suis aussi a l'aise avec Visual Studio Code, Unity, Maya, VCV Rack, Figma, Adobe Photoshop, Adobe Illustrator et Davinci Resolve."
+    body: "Je suis à l'aise avec HTML, Javascript, Css, Scss et Wordpress. Je suis aussi à l'aise avec Visual Studio Code, Unity, Maya, VCV Rack, Figma, Adobe Photoshop, Adobe Illustrator et Davinci Resolve."
     section: "about"
     
   contact:
